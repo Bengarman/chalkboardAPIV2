@@ -1,0 +1,6 @@
+{
+    "host": "109.228.56.139",
+    "user":"benDB",
+    "pass":"benPass",
+    "database":"recipeapp"
+}
